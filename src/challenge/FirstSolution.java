@@ -1,8 +1,8 @@
-package veritas;
+package challenge;
 
 import java.util.PriorityQueue;
 
-public class VeritasSolution {
+public class FirstSolution {
 
 	public static void main(String[] args) {
 		int[] nums = {1,3,2,4};
